@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import Typed from "typed.js";
+import img from "../../public/img.png";
 
 const Home = () => {
   useEffect(() => {
@@ -39,7 +40,11 @@ const Home = () => {
         <a href="#about" className="btn-box">More About Me</a>
       </div>
 
-      <div id="img-sec"></div>
+
+      <div
+        id="img-sec"
+        style={{ backgroundImage: `url(${img})` }}
+      ></div>
     </section>
   );
 };
