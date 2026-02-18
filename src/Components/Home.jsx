@@ -22,7 +22,7 @@ const Home = () => {
           And I'm a <span className="Typing-text"></span>
         </h3>
 
-        <p>
+        <p id="para">
           I am a MERN Full Stack Developer with hands-on experience in designing
           and developing scalable, high-performance web applications using
           MongoDB, Express.js, React.js, and Node.js. I specialize in delivering

@@ -13,7 +13,7 @@ Designed with a fully responsive and intuitive user interface.`,
     className: "airbnb",
   },
   {
-    title: "E-Commerce App",
+    title: "E-Commerce",
     description: `An e-commerce web application designed to provide a smooth online shopping experience.
 It includes dynamic product listings with detailed product information.
 Users can add, remove, and manage items in the shopping cart.
@@ -39,7 +39,7 @@ const Projects = () => {
             </div>
 
             <div className="project-right">
-              <img src={project.image} alt={project.title} />
+              <img id="img" src={project.image} alt={project.title} />
             </div>
           </div>
           </a>

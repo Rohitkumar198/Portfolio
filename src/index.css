@@ -782,6 +782,14 @@ h1 {
         gap: 2rem;
     }
 
+    #img {
+        height: 10rem;
+        width: 50rem;
+    }
+
+    #para {
+        text-align: center;    }
+
     section {
         height: auto !important;
     }
@@ -859,10 +867,6 @@ h1 {
     }
 
     .project-left {
-        padding: 1.5rem;
-    }
-
-    .project-right {
         padding: 1.5rem;
     }
 
