@@ -13,7 +13,7 @@ Designed with a fully responsive and intuitive user interface.`,
     className: "airbnb",
   },
   {
-    title: "E-Commerce",
+    title: "E-Commerce App",
     description: `An e-commerce web application designed to provide a smooth online shopping experience.
 It includes dynamic product listings with detailed product information.
 Users can add, remove, and manage items in the shopping cart.
